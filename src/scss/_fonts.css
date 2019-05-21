@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'crimson_textregular';
+    src: url('../webfonts/crimsontext-regular-webfont.woff2') format('woff2'),
+         url('../webfonts/crimsontext-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'intro_regular';
+    src: url('../webfonts/intro-webfont.woff2') format('woff2'),
+         url('../webfonts/intro-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'intro_rust_gbase_2_line';
+    src: url('../webfonts/introrustg-base2line-webfont.woff2') format('woff2'),
+         url('../webfonts/introrustg-base2line-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'playfair_displayregular';
+    src: url('../webfonts/playfairdisplay-regular-webfont.woff2') format('woff2'),
+         url('../webfonts/playfairdisplay-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'playfair_displayblack';
+    src: url('../webfonts/playfairdisplay-black-webfont.woff2') format('woff2'),
+         url('../webfonts/playfairdisplay-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
